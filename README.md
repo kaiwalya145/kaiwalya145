@@ -2,8 +2,6 @@
 
 # Hey there! 👋
 
-### ENTC Engineer | VLSI & Chip Design Enthusiast
-
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=RTL+Design+%7C+Verilog+%7C+VLSI;B.Tech+ENTC+%40+MMCoE+Pune" alt="Typing SVG" />
