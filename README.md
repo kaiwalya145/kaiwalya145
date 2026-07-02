@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Hey%20there!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ENTC%20Engineer%20%7C%20VLSI%20%26%20Chip%20Design%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ENTC%20Engineer%20%7C%20VLSI%20%26%20Chip%20Design%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=RTL+Design+%7C+Verilog+%7C+VLSI;B.Tech+ENTC+%40+MMCoE+Pune;UART+Tx%2FRx+in+Verilog+%F0%9F%9A%80;Hackathon+enthusiast+(ISRO+BAH+2026)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=RTL+Design+%7C+Verilog+%7C+VLSI;B.Tech+ENTC+%40+MMCoE+Pune" alt="Typing SVG" />
 </a>
 
 </div>
